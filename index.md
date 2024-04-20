@@ -13,7 +13,7 @@
 
 
 
-E-mail: liush2316@gmail.com
+E-mail: liush2316@gmail.com; geodynamics@shaohuiliu.eu.org
 
 Address: Shaohui Liu; No. 19, Beitucheng Western Road, Chaoyang District, 100029, Beijing, China
 

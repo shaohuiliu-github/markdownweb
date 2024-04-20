@@ -4,3 +4,9 @@
 
 ---
 
+Here are some Life Moment and Summaries.
+
+**Long time ago**
+
+[Phased Progress: My Past Anime and Handwriting Works](./my-painting-work-0,html)
+
