@@ -1,6 +1,6 @@
 **Shaohui Liu**
 
-**[Home](index.html)    [Posts](posts.html)    [Timeline](timeline.html)    [Research](research.html)**
+**[Home](../index.html)    [Posts](../posts.html)    [Timeline](../timeline.html)    [Research](../research.html)**
 
 ---
 
@@ -12,4 +12,4 @@
 
 ![3](my-painting-work-0.assets/3.jpg)
 
-<center>2016年冬于吉大前卫南区逸夫楼</center>
+<center>2016年冬于吉大前卫校区逸夫楼</center>
