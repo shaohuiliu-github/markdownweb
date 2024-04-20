@@ -12,5 +12,5 @@
 
 2024.04.07: [Steps: Use ASPECT in Docker](./posts/how-to-use-ASPECT-in-docker.html)
 
-2024.03.15: [Reveiw: Moho structure beneth the impact](./Moho-structure-beneth-the-impact-craters.html)
+2024.03.15: [Reveiw: Moho structure beneth the impact](./posts/Moho-structure-beneth-the-impact-craters.html)
 
